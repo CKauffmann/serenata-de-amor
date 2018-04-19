@@ -50,13 +50,13 @@ To allow people to visualize and make sense of data Rosie generates, we have cre
 
 ### How
 
-We have three main repositories [on GitHub](https://github.com/okfn-brasil). This is the _main repo_ and hosts [Rosie](rosie/README.md), [Jarbas](jarbas/README.md) and more experimental code in the `research/` directory.
+We have three main repositories on [GitHub](https://github.com/okfn-brasil). This _main repo_ and hosts [Rosie](rosie/README.md)and [Jarbas](jarbas/README.md) as well as more experimental code in the `research/` directory.
 
-In addition we the [Whistleblower](https://github.com/okfn-brasil/whistleblower) – the tool that gives Rosie the power to tweet – and the [toolbox](https://gtihub.com/okfn-brasil/serenata-toolbox) - a `pip` installable package to follow the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle alongside our repos and modules.
+In addition, there is [Whistleblower](https://github.com/okfn-brasil/whistleblower) – the tool that gives Rosie the power to tweet – and [toolbox](https://gtihub.com/okfn-brasil/serenata-toolbox) - a `pip` installable package to follow the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle alongside our repos and modules.
 
 ### When
 
-In spite of all these players acting together, the core part of the job is ran manually from times to times. The only part that is always online is Jarbas – freely serving a wide range of information about public expenditure 24/7.
+All these players are acting together, but the core part of the job is ran manually from time to time. The only part that is always online is Jarbas – freely serving a wide range of information about public expenditure 24/7.
 
 Roughly once a month we manually run Rosie and update Jarbas. A few times per year we upload versioned datasets accessible via the toolbox – but we encourage you to use the toolbox to generate fresh datasets whenever you need.
 
